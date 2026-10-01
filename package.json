@@ -1,0 +1,24 @@
+{
+  "name": "exerciciosaularenan",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/CiceroMarques/ExerciciosAulaRenan#readme",
+  "bugs": {
+    "url": "https://github.com/CiceroMarques/ExerciciosAulaRenan/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CiceroMarques/ExerciciosAulaRenan.git"
+  },
+  "license": "ISC",
+  "author": "Cícero",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
